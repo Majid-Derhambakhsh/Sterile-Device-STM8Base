@@ -2,6 +2,7 @@
 
 # Sterile Device STM8Base
 Sterile device based on STM8S003F microcontroller
+- STM32 Version : [Sterile Device STM32Base](https://github.com/Majid-Derhambakhsh/Sterile-Device-STM32Base)  
 
 ### Version : 1.0.0
 
