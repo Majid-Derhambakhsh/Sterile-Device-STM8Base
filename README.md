@@ -1,6 +1,6 @@
 ![BANNER](Banner.png)
 
-# Sterile-Device-STM8Base
+# Sterile Device STM8Base
 Sterile device based on STM8S003F microcontroller
 
 ### Version : 1.0.0
