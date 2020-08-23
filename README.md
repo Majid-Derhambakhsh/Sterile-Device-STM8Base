@@ -6,6 +6,7 @@ Sterile device based on STM8S003F microcontroller
 
 ```diff  
 - Notice : Program Uploading Soon
++ Send an email to me to receive project codes early
 ```
 
 ### Version : 1.0.0
